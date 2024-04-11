@@ -1,8 +1,8 @@
 ## Music Player App 
 
-A simple Music Player App Created in JavaScript.
+A simple Music Player App created in JavaScript.
 
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.jpg)
+![Music Player App](screenshot.jpg)
