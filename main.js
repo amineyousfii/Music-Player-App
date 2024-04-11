@@ -30,6 +30,12 @@ const songs = [
         displayName: 'Intellect',
         cover: 'Images/image3.jpg',
         artist: 'Yung Logos',
+    },
+    {
+        path: 'Images/4.mp4',
+        displayName: 'Deep Breath',
+        cover: 'Images/image4.png',
+        artist: 'Azimov',
     }
 ];
 
