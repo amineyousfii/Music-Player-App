@@ -2,7 +2,10 @@
 
 A simple Music Player App created in JavaScript.
 
-# Screenshot
-Here we have project screenshot :
+## Technologies Used
 
-![Music Player App](screenshot.jpg)
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
